@@ -31,6 +31,8 @@
 
 #### Miscellaneous
 
+- Metrics Links:
+	+ [How do you set metrics?](https://medium.com/the-year-of-the-looking-glass/how-do-you-set-metrics-59f78fea7e44)
 
 
 #### Frameworks
@@ -46,7 +48,7 @@
 	+ [4 Steps to Defining GREAT Metrics for ANY Product](https://hackernoon.com/metrics-game-framework-5e3dce1be8ac)
 - HEART
 	+ [How to choose the right UX metrics for your product](https://library.gv.com/how-to-choose-the-right-ux-metrics-for-your-product-5f46359ab5be)
-	+ 
+- 
 
 
 #### Product Management Interviews
