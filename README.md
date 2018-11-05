@@ -1,6 +1,6 @@
 # README
 
-
+[UI and UI Design Notes](https://github.com/coolinmc6/design-ux-ui)
 
 ### AARM Method
 
