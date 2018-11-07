@@ -27,7 +27,7 @@
 
 ![Retention Curve](https://github.com/coolinmc6/analytics/blob/master/assets/retention-curve.png)
 
-- If Day 7 is retention is 13%, it means that out of all the users who first used the product on Day 0, came back and where active on Day 7
+- If Day 7 is retention is 13%, it means that out of all the users who first used the product on Day 0, 13% came back and were active on Day 7
 - Retention matters **IMMEDIATELY**, not later once you're past a certain "growth" period...if you don't retain users, you don't have product-market fit. See below
 
 ![Retention Curve Showing Product-Market Fit](https://github.com/coolinmc6/analytics/blob/master/assets/rc-product-market-fit.png)
