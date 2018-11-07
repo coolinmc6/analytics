@@ -25,12 +25,12 @@
 - your goal should be increase user retention is minimize churn
 - A key metric is **N-Day Retention** where Day 0 is the day they first use the product and then you see whether that user has returned on Day 1, Day 5, etc. It creates a retention curve as shown below:
 
-![Retention Curve]()
+![Retention Curve](https://github.com/coolinmc6/analytics/blob/master/assets/retention-curve.png)
 
 - If Day 7 is retention is 13%, it means that out of all the users who first used the product on Day 0, came back and where active on Day 7
 - Retention matters **IMMEDIATELY**, not later once you're past a certain "growth" period...if you don't retain users, you don't have product-market fit. See below
 
-![Retention Curve Showing Product-Market Fit]()
+![Retention Curve Showing Product-Market Fit](https://github.com/coolinmc6/analytics/blob/master/assets/rc-product-market-fit.png)
 
 - You need to build a product that people will get hooked on; you need a *habit-forming* product
 - You need to understand what value your users get out of your product - figure out what your power users are doing a nudge your user base to behave more like them

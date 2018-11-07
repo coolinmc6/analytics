@@ -8,10 +8,10 @@
 
 - Books and Long-Form:
 	- [Mastering Retention Notes](https://github.com/coolinmc6/analytics/blob/master/Mastering-Retention.md)
-* [AARM Method](#aarm-method)
-* [AARRR Startup Metrics for Pirates](#aarrr-startup-metrics-for-pirates)
-* [Game Framework](#game-framework)
-* [Links and Resources](#links)
+- [AARM Method](#aarm-method)
+- [AARRR Startup Metrics for Pirates](#aarrr-startup-metrics-for-pirates)
+- [Game Framework](#game-framework)
+- [Links and Resources](#links)
 
 
 ## Notes
