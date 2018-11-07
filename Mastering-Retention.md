@@ -78,7 +78,18 @@
 	+ day they played their first song
 	+ day they added a friend
 	+ etc.
-- 
+- N-Day Retention explained...
+	+ Day 1 retention looks at how many users returned **specifically one day** after they were active
+	+ Day 3 retention looks how many users returned **on exactly** the third day after they were first active; it does **NOT** matter if they came back on Day 2
+	+ Day 7 retention looks at users who returned **exactly** on the seventh day after they were first active
+		* Broken down further, a user is only counted if it was active **ON** Day 7; it doesn't matter at all how many times they were active on days 1 - 7; if they aren't active on Day 7, they are not considered Day 7 retained
+	+ Question: given that as a measure, wouldn't retention curves be lumpier or do these example retention curves represent a general trend for apps with many users? *CM: I could see certain days, for whatever reason, having a higher retention than earlier days. Even if it's a fluke, is it really THAT unlikely that a day 6 retention could, in some cases, be higher than day 5? Is it ALWAYS the case that day N retention is higher than day N+1 retention?*
+- N-Week Retention and N-Month Retention are the same idea but the time period is lengthened; so Week 1 Retention is all users active within that week.
+- Unbounded Retention shows you the proportion of users who came back on a specific day or anytime after that day.
+	+ this is for business that don't expect users to engage with their product or service on any regular cadence
+- The inverse of unbounded retention, naturally, is the percent of users that used your app and then never returned again; also known as your **churn rate**
+
+CM - last page: 28
 
 [back to top](#top)
 
