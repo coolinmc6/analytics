@@ -2,6 +2,20 @@
 
 [UI and UI Design Notes](https://github.com/coolinmc6/design-ux-ui)
 
+<a name="top"></a>
+
+## Table of Contents
+
+- Books and Long-Form:
+	- [Mastering Retention Notes](https://github.com/coolinmc6/analytics/blob/master/Mastering-Retention.md)
+* [AARM Method](#aarm-method)
+* [AARRR Startup Metrics for Pirates](#aarrr-startup-metrics-for-pirates)
+* [Game Framework](#game-framework)
+* [Links and Resources](#links)
+
+
+## Notes
+
 ### AARM Method
 
 - AARM Metrics or the AARM Method is a framework for understanding a product's metrics
@@ -15,6 +29,9 @@
 - Monetization
 	+ collecting revenue from users
 
+
+[back to top](#top)
+
 ### AARRR Startup Metrics for Pirates
 
 - Acquisition — where/what channels do users come from?
@@ -23,9 +40,15 @@
 - Referral — do they like it enough to tell their friends?
 - Revenue — can you monetize any of this behavior?
 
+
+[back to top](#top)
+
 ### Game Framework
 
 - helps you identify which metrics you should use for your product / service
+
+
+[back to top](#top)
 
 ### Links
 
@@ -34,6 +57,9 @@
 - Metrics Links:
 	+ [How do you set metrics?](https://medium.com/the-year-of-the-looking-glass/how-do-you-set-metrics-59f78fea7e44)
 
+
+
+[back to top](#top)
 
 #### Frameworks
 
@@ -51,6 +77,12 @@
 - 
 
 
+
+[back to top](#top)
+
 #### Product Management Interviews
 
 -[Answering The Metrics Interview Question with Dave McClure](https://www.productschool.com/blog/jobs/answering-metrics-interview-question-product-management/)
+
+[back to top](#top)
+
