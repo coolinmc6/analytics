@@ -6,14 +6,28 @@
 
 ## Resources Cited 
 
-- [https://labs.openviewpartners.com/](https://labs.openviewpartners.com/)
-- [https://amplitude.com/blog/2015/12/15/how-to-increase-growth-through-retention-analysis](https://amplitude.com/blog/2015/12/15/how-to-increase-growth-through-retention-analysis)
+- [WHY RETENTION IS KING OF GROWTH STRATEGY](http://labs.openviewpartners.com/retention-optimization-is-king-of-growth-strategy/#.V6ltC5MrL4M)
+- [OpenView Partners](https://labs.openviewpartners.com/)
+- [How to Increase Growth Through Retention Analysis](https://amplitude.com/blog/2015/12/15/how-to-increase-growth-through-retention-analysis)
 - [10 Steps To Get You Started with Behavioral Analytics](https://amplitude.com/blog/2016/06/14/10-steps-behavioral-analytics)
 - [Avoiding the Wheel of Meaningless Growth](https://brianbalfour.com/essays/growth-principle-two-seek-authentic-growth)
 	+ [Culture Of High Performance Growth Teams](https://brianbalfour.com/growth-culture)
 		* this is the first in a series of essays on growth; **I MUST READ**
 - [Diligence at Social Capital Part 1: Accounting for User Growth](https://medium.com/swlh/diligence-at-social-capital-part-1-accounting-for-user-growth-4a8a449fddfc)
 - [You're Measuring Daily Active Users Wrong](https://amplitude.com/blog/2016/01/14/measuring-active-users)
+
+## Table of Contents
+
+- [Chapter 01: Why You Need to Care About User Retention](#chapter-01-why-you-need-to-care-about-user-retention)
+- [Chapter 02: Your Critical Event & Product Usage Interval](https://github.com/coolinmc6/analytics/blob/master/Mastering-Retention.md#chapter-02-your-critical-event--product-usage-interval)
+- [Chapter 03: The Retention Lifecycle Framework](https://github.com/coolinmc6/analytics/blob/master/Mastering-Retention.md#chapter-03-the-retention-lifecycle-framework)
+- [Chapter 04: Product Analysis Toolkit](https://github.com/coolinmc6/analytics/blob/master/Mastering-Retention.md#chapter-04-product-analysis-toolkit)
+- [Chapter 05: Current User Retention](https://github.com/coolinmc6/analytics/blob/master/Mastering-Retention.md#chapter-05-current-user-retention)
+- [Chapter 06: New User Retention](https://github.com/coolinmc6/analytics/blob/master/Mastering-Retention.md#chapter-06-new-user-retention)
+- [Chapter 07: Resurrected User Retention](https://github.com/coolinmc6/analytics/blob/master/Mastering-Retention.md#chapter-07-resurrected-user-retention)
+- [Chapter 08: What to Do Next](https://github.com/coolinmc6/analytics/blob/master/Mastering-Retention.md#chapter-08-what-to-do-next)
+
+
 
 ## Chapter 01: Why You Need to Care About User Retention
 
