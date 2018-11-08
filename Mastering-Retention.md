@@ -101,7 +101,7 @@
 
 > The right retention metric should show you where you can improve and give you an accurate view of the health of your business.
 
-![User Retention Cycle]()
+![User Retention Cycle](https://github.com/coolinmc6/analytics/blob/master/assets/user-retention-cycle.png)
 
 - New User Retention
 	+ your new user experience is your product's first impression
@@ -118,10 +118,9 @@
 		* And did they become current users or drop off again?
 - The next two graphs illustrate the danger of only measuring current active users:
 
-![Active Users over 12 Weeks]()
+![Active Users over 12 Weeks](https://github.com/coolinmc6/analytics/blob/master/assets/active-users-bar-chart.png)
 
-
-![Active Users broken down by type]()
+![Active Users broken down by type](https://github.com/coolinmc6/analytics/blob/master/assets/active-users-breakdown.png)
 
 - by breaking your users down into cohorts of new users, current users, resurrected users and dormant users, you can see what your "active user" count is really telling you.
 - the "Pulse" ratio is (# of new users + # of resurrected users) / (# of dormant users)
@@ -148,7 +147,7 @@ is important, but you can't convert everyone into a power user overnight. As you
 	+ 90% Consume
 - If you optimize only for your power users (in YouTube's case you might think it's the creators), you'd be neglecting the other 99% that largely watch those videos
 
-![1% Rule Illustrated]()
+![1% Rule Illustrated](https://github.com/coolinmc6/analytics/blob/master/assets/1-percent-rule.png)
 
 - You can break your users down into Power, Core and Passive users:
 	- **Power Users**: People who use your product with a very high frequency or use a “power” feature that
@@ -175,9 +174,9 @@ the majority of users don't take advantage of.
 		* the time spent isn't always a great metric - make sure it makes sense for your app / website
 - The reference below is great and I should return to it:
 
-![Product Analysis Toolkit - page 1]()
+![Product Analysis Toolkit - page 1](https://github.com/coolinmc6/analytics/blob/master/assets/product-analysis-toolkit-1.png)
 
-![Product Analysis Toolkit - page 2]()
+![Product Analysis Toolkit - page 2](https://github.com/coolinmc6/analytics/blob/master/assets/product-analysis-toolkit-2.png)
 
 - CM - start pg 64
 
