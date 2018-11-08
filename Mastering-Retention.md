@@ -150,7 +150,36 @@ is important, but you can't convert everyone into a power user overnight. As you
 
 ![1% Rule Illustrated]()
 
+- You can break your users down into Power, Core and Passive users:
+	- **Power Users**: People who use your product with a very high frequency or use a “power” feature that
+the majority of users don't take advantage of.
+	- **Core Users**: People who are using your app at a regular frequency and in the “expected” way.
+	- **Passive Users**: These are people who might not be using your app in the core way that you designed, but are still coming back at a regular frequency to do something.
+- Use both qualitative and quantitative methods to determine the personas that use your product
+- After breaking your users into your lifecycle cohorts (new, current, and resurrected users) and you have your personas, you need to measure the baseline retention for each cohort and dig deeper into the drivers of retention
+- Analyses to Do:
+	+ Compare the retention curves of behavioral personas
+	+ Investigate user properties (country, age, language, or any other characteristic about these users) to understand who these users are
+	+ Segment your retention curves by user properties
+	+ Use behavioral cohort analysis to measure the impact of different user actions
+		* Based on the actions of your users, study their retention and see which groups of users do what
+		* Famous example from Facebook: Users who added at least 7 friends within their first 10 days were more likely to be retained long term. **That is a behavioral cohort: there's a behavior (adding at least 7 friends) and a time period (within 10 days of signing up).**
+	+ Conversion rate through your critical path funnel
+		* A critical path funnel is the series of actions you anticipate users taking in order to complete your critical event
+	+ Find your most common user flows
+	+ Measure stickiness
+		* **stickiness** refers to the frequency at which people are using your product. Specifically, stickiness measures the number of days out of a given time period that a user was active, or did a specific event (like your critical event).
+		* Weekly stickiness - the percentages of users who active or performed a specific event at least *n* days out of a week
+		* Monthly stickiness - The percentage of users who were active or performed a specific event at least *n* days out of a month
+	+ Session metrics
+		* the time spent isn't always a great metric - make sure it makes sense for your app / website
+- The reference below is great and I should return to it:
 
+![Product Analysis Toolkit - page 1]()
+
+![Product Analysis Toolkit - page 2]()
+
+- CM - start pg 64
 
 [back to top](#top)
 
