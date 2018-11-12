@@ -244,8 +244,18 @@ the majority of users don't take advantage of.
 
 ## Chapter 06: New User Retention
 
--
+- New user retention is incredibly important and is often the most closely analyzed type of retention
+- Understand your onboarding funnel
+	+ First impressions matter
+		+ bad onboarding leads to a bad new user retention
+	+ Define your onboarding funnel
+		* if there is a well-defined sequence that users move through, then simply tracking those events is easy
+	+ If you have an open-ended first-user experience, what are the key events that a user must do to start getting value out of your product
+	+ Measure the retention impact of your on-boarding flow
+		* start with the largest drop-off in your funnel
+- Looking at the paths of dropped off users
 
+![Habit Formation Timeframe](https://github.com/coolinmc6/analytics/blob/master/assets/habit-formation-time-frame.png)
 
 [back to top](#top)
 
