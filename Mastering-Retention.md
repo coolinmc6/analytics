@@ -15,6 +15,9 @@
 		* this is the first in a series of essays on growth; **I MUST READ**
 - [Diligence at Social Capital Part 1: Accounting for User Growth](https://medium.com/swlh/diligence-at-social-capital-part-1-accounting-for-user-growth-4a8a449fddfc)
 - [You're Measuring Daily Active Users Wrong](https://amplitude.com/blog/2016/01/14/measuring-active-users)
+- [Hooking Users In 3 Steps: An Intro to Habit Testing](https://www.nirandfar.com/2012/04/hooking-users-in-3-steps.html)
+- [Why You Need Cohorts to Improve Your Retention](https://amplitude.com/blog/2015/11/24/cohorts-to-improve-your-retention)
+- [This Is How You Find Your App's Aha! Moment](https://apptimize.com/blog/2016/02/this-is-how-you-find-your-apps-aha-moment/)
 
 ## Table of Contents
 
@@ -27,7 +30,13 @@
 - [Chapter 07: Resurrected User Retention](https://github.com/coolinmc6/analytics/blob/master/Mastering-Retention.md#chapter-07-resurrected-user-retention)
 - [Chapter 08: What to Do Next](https://github.com/coolinmc6/analytics/blob/master/Mastering-Retention.md#chapter-08-what-to-do-next)
 
+## CM Notes
 
+- Chapter 1 explains user retention is so important. Without a user retention curve that eventually flattens out, you don't have product-market fit. Without product-market fit, you don't really have a business. Without product-market fit, new users won't really help you because you can't retain them.
+- Chapter 2 explains what a critical event is and why you need to identify it. It also explains what the product usage interval is. These two figures help identify the appropriate time frame by which you can measure retention.
+- Chapter 3 explains the User Retention Framework and how you can think about users. There are generally four types of users: new users, current users, dormant users, and resurrected users (these are the lifecycle cohorts). This chapter also explains the three main user retention metrics (Nth-Day Retention, Unbounded Retention, and Bracket Retention).
+- Chapter 4 explains what behavioral personas are and how you can use them to understand your users. Diving into the lifecycle information of your behavioral personas can be done in a number of ways and they list a number of analyses you should perform to understand your users better.
+- Chapter 5 stresses the importance of keeping current users and making your product habit-forming. This product
 
 ## Chapter 01: Why You Need to Care About User Retention
 
@@ -198,12 +207,44 @@ the majority of users don't take advantage of.
 
 ## Chapter 05: Current User Retention
 
+- Improving your current user retention is critical to sustaining a business. If your retention curve doesn't flatten out at some point, it will become impossible to sustain true growth.
+- Nir Eyal's 5% Rule and Habit Testing
+- These are the steps to Habit Testing:
+	+ Identify - find habitual usesr
+	+ Codify - understand what these users have in common
+	+ Modify - adapt user flow based on these learnings
+- The 5% Rule means that if at least 5% of your users aren't coming back to your site, or it isn't habitual, you need to rethink your value proposition
+	+ This suggests that you may not have product-market fit
+- These are the goals of current user retention analysis:
+	+ Get new userst o form habits and become current users
+	+ Get current users to become core users, and core users to become power users
+- Remember the User Cohort Diagram:
+
+![User Cohort Diagram](https://github.com/coolinmc6/analytics/blob/master/assets/user-retention-cycle.png)
+
+- These are the phases before becoming a current user:
+	+ Onboarding
+	+ Value Discovery
+	+ Habit Formation
+
+![Phases of becoming a current user](https://github.com/coolinmc6/analytics/blob/master/assets/phases-current-user.png)
+
+- This pretty much sums up this chapter: **Studying current user retention is about understanding the factors that encourage people to form a habit.**
+- The "A-ha Moment" is when people see the value in the product
+- To identify the drivers of habit formation, you need to find the action or set of actions that separates users who form a habit and from those who don't
+- Here are some metrics they recommend tracking:
+	+ The size (in absolute numbers) and percent- age of your total active users that is made up of your current users (as calculated via lifecycle or manual analysis).
+	+ Retention over time of all current users and of each behavioral persona.
+	+ Size and percentage breakdown of your important behavioral personas. Are you getting more people into important personas?
+	+ Stickiness over time for critical events. This will show you any changes in how active current users are in the product.
+	+ Conversion rate over time through your critical path funnel
 
 
 [back to top](#top)
 
 ## Chapter 06: New User Retention
 
+-
 
 
 [back to top](#top)
