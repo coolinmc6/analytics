@@ -85,15 +85,17 @@
 	+ in Airbnb's case it is book a room
 - A good rule of thumb is one critical event per product offering
 - in a marketplace, where you have two main types of users (i.e. buyers and sellers), you may have two critical events, one for each
-- Determine your products usage interval - daily? weekly? monthly?
+- Determine your product's usage interval - daily? weekly? monthly?
 - If you don't have a good gauge of how often users should be using your product, you'll misinterpret your retention metric and misinform your strategies to improve it
-- There is a Usage Interval Framework to better understand your usage interval
+- There is a Usage Interval Framework to better understand your usage interval <a name="usage-interval"></a>
 	+ **Key Point:** Identify the time interval at which *80%* of users have repeated the critical event
 	+ pages 20 - 22 have a little worksheet to look at your analytics; take a look
 
 [back to top](#top)
 
 ## Chapter 03: The Retention Lifecycle Framework
+
+### 3 Ways to Measure User Retention
 
 - There are three main types of retention:
 	+ N-Day Retention
@@ -128,6 +130,8 @@
 
 > The right retention metric should show you where you can improve and give you an accurate view of the health of your business.
 
+### The Retention Lifecycle Framework 
+
 ![User Retention Cycle](https://github.com/coolinmc6/analytics/blob/master/assets/user-retention-cycle.png)
 
 - New User Retention
@@ -145,6 +149,11 @@
 		* And did they become current users or drop off again?
 - The next two graphs illustrate the danger of only measuring current active users:
 
+### Creating Your Lifecycle Cohorts
+
+- **CM:** This specific section is referenced several times in the following chapters, with each one dealing with a different type of user: Chapter 5 (Current Users), Chapter 6 (New Users), and Chapter 7 (Resurrected Users). Each of those chapters require this section of breaking your users down into these main four groups
+- The main crux behind lifecycle cohorts is that a growing "active" user base does not alone suggest that you're doing well. Look at these two graphs:
+
 ![Active Users over 12 Weeks](https://github.com/coolinmc6/analytics/blob/master/assets/active-users-bar-chart.png)
 
 ![Active Users broken down by type](https://github.com/coolinmc6/analytics/blob/master/assets/active-users-breakdown.png)
@@ -152,6 +161,7 @@
 - by breaking your users down into cohorts of new users, current users, resurrected users and dormant users, you can see what your "active user" count is really telling you.
 - the "Pulse" ratio is (# of new users + # of resurrected users) / (# of dormant users)
 	+ a ratio above 1 means that you are gaining more users than you are losing
+- As a reminder, determining where a particular user falls depends on your [usage interval](#usage-interval) (the interval at which 80% of current users repeate the critical event)
 
 > Reminder: Be careful about over- optimizing for just your power users. Understanding power usage
 is important, but you can't convert everyone into a power user overnight. As you iterate on your product, make sure to optimize for retaining the most number of users, not just the best users
@@ -233,6 +243,12 @@ the majority of users don't take advantage of.
 
 ![Phases of becoming a current user](https://github.com/coolinmc6/analytics/blob/master/assets/phases-current-user.png)
 
+- I. Current Users Diagnostic
+	+ look at baseline retention for the current user cohort
+	+ investigate user properties & segment retention curve
+- II. Find behavioral personas of current users
+- III. Discover the drivers of Habit Formation
+- IV. Discover drives from Passive to Core to Power Personas
 - This pretty much sums up this chapter: **Studying current user retention is about understanding the factors that encourage people to form a habit.**
 - The "A-ha Moment" is when people see the value in the product
 - To identify the drivers of habit formation, you need to find the action or set of actions that separates users who form a habit and from those who don't
@@ -250,6 +266,15 @@ the majority of users don't take advantage of.
 
 - New user retention is incredibly important and is often the most closely analyzed type of retention
 - Understand your onboarding funnel
+- Looking at the paths of dropped off users
+
+![Habit Formation Timeframe](https://github.com/coolinmc6/analytics/blob/master/assets/habit-formation-time-frame.png)
+
+- I. New users diagnostic
+	+ look at baseline retention for new users cohort
+	+ investigate user properties & segment retention curve
+- II. Find behavioral personas of your new users
+- III. Understand your onboarding funnel
 	+ First impressions matter
 		+ bad onboarding leads to a bad new user retention
 	+ Define your onboarding funnel
@@ -257,9 +282,13 @@ the majority of users don't take advantage of.
 	+ If you have an open-ended first-user experience, what are the key events that a user must do to start getting value out of your product
 	+ Measure the retention impact of your on-boarding flow
 		* start with the largest drop-off in your funnel
-- Looking at the paths of dropped off users
+- IV. The phases of new user retention: Onboarding and Value Discovery
+	+ these are the phases of a new user:
+	
+![Habit Formation Timeframe](https://github.com/coolinmc6/analytics/blob/master/assets/phases-new-user.png)
 
-![Habit Formation Timeframe](https://github.com/coolinmc6/analytics/blob/master/assets/habit-formation-time-frame.png)
+- V. Identify the drivers of successful onboarding
+- VI. Identify the drivers of successful value discovery
 
 - **There is more here that I need to revisit. There are just certain items that I can't wrap my head around yet.**
 
@@ -287,13 +316,31 @@ the majority of users don't take advantage of.
 	+ for resurrected users, which external triggers work?
 		* use session utm parameters to look for common sources
 			- [Intro to UTM Parameters and Best Practices](http://blog.rafflecopter.com/2014/04/utm-parameters-best-practices/)
-		* 
 
 [back to top](#top)
 
 ## Chapter 08: What to Do Next
 
+- Good review of the book - if I had to re-read this, I'd start with the first few pages just to see the material initially.
+- They recommend using OKRs - Objectives and Key Results. Interesting methodology around retention:
+	+ State your goals
+	+ Set a timeframe (30 to 90 days)
+	+ Assign three key resutls you want to achieve related to retention:
+		* #1 - 90% chance of success
+		* #2 - 50% chance of success
+		* #3 - 10% chance of success
+	+ Brainstorm the actionable objectives you'll use to hit your key results
 
+## Instrumentation Review
+
+- One of the first steps is "Organize your event taxonomy" which means takes the time to understand the business that we're in and the success criteria for your business (and in particular, your website or app).
+- Here are some questions to ask:
+	+ Are the events you're tracking aligned with your analytics goals?
+	+ Can everyone understand what each event is and why it's being tracked?
+	+ Are you tracking events aligned with your critical path funnel?
+	+ How are you defining an active user?
+- They next recommend "Validating your data" by going through your onboarding process and the critical paths as you've identified them
+- **Habit Formation phase**: This follows the Onboarding and Value Discovery phases of new user retention. Once a user has discovered value in your product, you need to make sure they develop a habit so that they keep coming back over time. Users who successfully pass through the Habit Formation phase become current users of your product.
 
 [back to top](#top)
 
