@@ -7,7 +7,8 @@
 ## Table of Contents
 
 - Books and Long-Form:
-	- [Mastering Retention Notes](https://github.com/coolinmc6/analytics/blob/master/Mastering-Retention.md)
+	- Amplitude - [Mastering Retention](https://github.com/coolinmc6/analytics/blob/master/Mastering-Retention.md)
+	- Amplitude - [Engagement Games](https://github.com/coolinmc6/analytics/blob/master/Engagement-Games.md)
 - [AARM Method](#aarm-method)
 - [AARRR Startup Metrics for Pirates](#aarrr-startup-metrics-for-pirates)
 - [Game Framework](#game-framework)
