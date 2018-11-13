@@ -34,6 +34,8 @@
 - [Chapter 07: Resurrected User Retention](https://github.com/coolinmc6/analytics/blob/master/Mastering-Retention.md#chapter-07-resurrected-user-retention)
 - [Chapter 08: What to Do Next](https://github.com/coolinmc6/analytics/blob/master/Mastering-Retention.md#chapter-08-what-to-do-next)
 
+[back to top](#top)
+
 ## CM Notes
 
 - Chapter 1 explains user retention is so important. Without a user retention curve that eventually flattens out, you don't have product-market fit. Without product-market fit, you don't really have a business. Without product-market fit, new users won't really help you because you can't retain them.
@@ -41,6 +43,8 @@
 - Chapter 3 explains the User Retention Framework and how you can think about users. There are generally four types of users: new users, current users, dormant users, and resurrected users (these are the lifecycle cohorts). This chapter also explains the three main user retention metrics (Nth-Day Retention, Unbounded Retention, and Bracket Retention).
 - Chapter 4 explains what behavioral personas are and how you can use them to understand your users. Diving into the lifecycle information of your behavioral personas can be done in a number of ways and they list a number of analyses you should perform to understand your users better.
 - Chapter 5 stresses the importance of keeping current users and making your product habit-forming.
+
+[back to top](#top)
 
 ## Chapter 01: Why You Need to Care About User Retention
 
