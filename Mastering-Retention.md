@@ -40,7 +40,7 @@
 - Chapter 2 explains what a critical event is and why you need to identify it. It also explains what the product usage interval is. These two figures help identify the appropriate time frame by which you can measure retention.
 - Chapter 3 explains the User Retention Framework and how you can think about users. There are generally four types of users: new users, current users, dormant users, and resurrected users (these are the lifecycle cohorts). This chapter also explains the three main user retention metrics (Nth-Day Retention, Unbounded Retention, and Bracket Retention).
 - Chapter 4 explains what behavioral personas are and how you can use them to understand your users. Diving into the lifecycle information of your behavioral personas can be done in a number of ways and they list a number of analyses you should perform to understand your users better.
-- Chapter 5 stresses the importance of keeping current users and making your product habit-forming. This product
+- Chapter 5 stresses the importance of keeping current users and making your product habit-forming.
 
 ## Chapter 01: Why You Need to Care About User Retention
 
@@ -215,8 +215,6 @@ the majority of users don't take advantage of.
 
 ![Product Analysis Toolkit - page 2](https://github.com/coolinmc6/analytics/blob/master/assets/product-analysis-toolkit-2.png)
 
-- CM - start pg 64
-
 [back to top](#top)
 
 ## Chapter 05: Current User Retention
@@ -343,6 +341,8 @@ the majority of users don't take advantage of.
 - **Habit Formation phase**: This follows the Onboarding and Value Discovery phases of new user retention. Once a user has discovered value in your product, you need to make sure they develop a habit so that they keep coming back over time. Users who successfully pass through the Habit Formation phase become current users of your product.
 
 [back to top](#top)
+
+## CM Guide to Getting Started
 
 
 
