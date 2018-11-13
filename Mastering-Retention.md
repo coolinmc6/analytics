@@ -4,6 +4,8 @@
 
 # Mastering Retention
 
+- The source for these notes is [here](https://github.com/coolinmc6/analytics/blob/master/assets/Amplitude-Product-Analytics-Playbook-vol1.pdf)
+
 ## Resources Cited 
 
 - [WHY RETENTION IS KING OF GROWTH STRATEGY](http://labs.openviewpartners.com/retention-optimization-is-king-of-growth-strategy/#.V6ltC5MrL4M)
