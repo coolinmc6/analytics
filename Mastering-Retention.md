@@ -18,6 +18,10 @@
 - [Hooking Users In 3 Steps: An Intro to Habit Testing](https://www.nirandfar.com/2012/04/hooking-users-in-3-steps.html)
 - [Why You Need Cohorts to Improve Your Retention](https://amplitude.com/blog/2015/11/24/cohorts-to-improve-your-retention)
 - [This Is How You Find Your App's Aha! Moment](https://apptimize.com/blog/2016/02/this-is-how-you-find-your-apps-aha-moment/)
+- [The Billion Dollar Mind Trick: An Intro to Triggers](https://www.nirandfar.com/2012/04/billion-dollar-mind-trick.html)
+- [The Psychology of Notifications: How to Send Triggers that Work](https://www.nirandfar.com/2015/03/notifications-that-work.html)
+- [How to Bring Inactive Users Back from the Dead](https://www.appcues.com/blog/how-to-bring-inactive-users-back-from-the-dead)
+- [Empty States](http://emptystat.es/)
 
 ## Table of Contents
 
@@ -257,11 +261,33 @@ the majority of users don't take advantage of.
 
 ![Habit Formation Timeframe](https://github.com/coolinmc6/analytics/blob/master/assets/habit-formation-time-frame.png)
 
+- **There is more here that I need to revisit. There are just certain items that I can't wrap my head around yet.**
+
 [back to top](#top)
 
 ## Chapter 07: Resurrected User Retention
 
+- A **resurrected user** is someone who has returned to your product after being inactive, or dormant, for a period of time
+- Don't let users come back to a poor empty experience
 
+![Habit Formation Timeframe](https://github.com/coolinmc6/analytics/blob/master/assets/empty-state.png) 
+
+- I. Resurrected users diagnostic
+	+ compare resurrected users to other users (current and new)
+	+ determine opportunity size of resurrected users
+	+ determine percentage of active users that are resurrected
+	+ how many potential resurrected users do you have?
+
+- II. Find behavioral personas of resurrected users
+- III. Identify triggers of resurrection
+	+ Internal vs External Triggers
+		* external = push notifications, emails or ads to get users' attention
+		* internal = in a person's mind; occurs when a product is tightly coupled with a thought, an emotion, or a pre-existing habit
+		* the best habit-forming products start out with external triggers to initially attract and educate uses and then over time, users don't need the external triggers, only the internal ones
+	+ for resurrected users, which external triggers work?
+		* use session utm parameters to look for common sources
+			- [Intro to UTM Parameters and Best Practices](http://blog.rafflecopter.com/2014/04/utm-parameters-best-practices/)
+		* 
 
 [back to top](#top)
 
@@ -270,4 +296,22 @@ the majority of users don't take advantage of.
 
 
 [back to top](#top)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
