@@ -20,8 +20,9 @@
 
 [back to top](#top)
 
-## Chapter 2: Engaging New Users with the Engagement Ladder
+## Chapter 2: Activating New Users
 
+- Source: [https://amplitude.com/user-engagement/engaging-new-users](https://amplitude.com/user-engagement/engaging-new-users)
 
 
 

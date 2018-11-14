@@ -35,6 +35,7 @@
 - [Chapter 06: New User Retention](https://github.com/coolinmc6/analytics/blob/master/Mastering-Retention.md#chapter-06-new-user-retention)
 - [Chapter 07: Resurrected User Retention](https://github.com/coolinmc6/analytics/blob/master/Mastering-Retention.md#chapter-07-resurrected-user-retention)
 - [Chapter 08: What to Do Next](https://github.com/coolinmc6/analytics/blob/master/Mastering-Retention.md#chapter-08-what-to-do-next)
+- [Instrumentation Review](#instrumentation-review)
 
 [back to top](#top)
 
@@ -86,7 +87,7 @@
 	+ perform an instrumentation review
 		* CM - this looks pretty valuable and would be a good way to get everyone on the team on the same page
 	+ have a high-level understanding of users BEFORE you put the retention lifecycle framework in place
-- A **critical event** is an action that users take within your product that aligns closely with your core value proposition.
+- A **critical event** is an action that users take within your product that aligns closely with your core value proposition. <a name="critical-event"></a>
 	+ This is what you want your users to do! Think about it - what is the one thing you want your users to do
 	+ in Airbnb's case it is book a room
 - A good rule of thumb is one critical event per product offering
@@ -350,7 +351,9 @@ the majority of users don't take advantage of.
 
 ## CM Guide to Getting Started
 
-
+- Identify your [critical event](#critical-event)
+- Determine your product's [usage interval](#usage-interval)
+- 
 
 
 
