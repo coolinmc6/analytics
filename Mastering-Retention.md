@@ -93,8 +93,8 @@
 - A good rule of thumb is one critical event per product offering
 - in a marketplace, where you have two main types of users (i.e. buyers and sellers), you may have two critical events, one for each
 - Determine your product's usage interval - daily? weekly? monthly?
-- If you don't have a good gauge of how often users should be using your product, you'll misinterpret your retention metric and misinform your strategies to improve it
-- There is a Usage Interval Framework to better understand your usage interval <a name="usage-interval"></a>
+- If you don't have a good gauge of how often users should be using your product, you'll misinterpret your retention metric and misinform your strategies to improve it<a name="usage-interval"></a>
+- There is a Usage Interval Framework to better understand your usage interval 
 	+ **Key Point:** Identify the time interval at which *80%* of users have repeated the critical event
 	+ pages 20 - 22 have a little worksheet to look at your analytics; take a look
 
@@ -208,7 +208,7 @@ the majority of users don't take advantage of.
 		* Based on the actions of your users, study their retention and see which groups of users do what
 		* Famous example from Facebook: Users who added at least 7 friends within their first 10 days were more likely to be retained long term. **That is a behavioral cohort: there's a behavior (adding at least 7 friends) and a time period (within 10 days of signing up).**
 	+ Conversion rate through your critical path funnel<a name="critical-path-funnel"></a>
-		* A critical path funnel is the series of actions you anticipate users taking in order to complete your critical event 
+		* **A critical path funnel** is the series of actions you anticipate users taking in order to complete your critical event 
 	+ Find your most common user flows
 	+ Measure stickiness
 		* **stickiness** refers to the frequency at which people are using your product. Specifically, stickiness measures the number of days out of a given time period that a user was active, or did a specific event (like your critical event).
