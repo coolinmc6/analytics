@@ -86,8 +86,8 @@
 	+ make sure analytics is properly tracking the user actions important to you
 	+ perform an instrumentation review
 		* CM - this looks pretty valuable and would be a good way to get everyone on the team on the same page
-	+ have a high-level understanding of users BEFORE you put the retention lifecycle framework in place
-- A **critical event** is an action that users take within your product that aligns closely with your core value proposition. <a name="critical-event"></a>
+	+ have a high-level understanding of users BEFORE you put the retention lifecycle framework in place<a name="critical-event"></a>
+- A **critical event** is an action that users take within your product that aligns closely with your core value proposition. 
 	+ This is what you want your users to do! Think about it - what is the one thing you want your users to do
 	+ in Airbnb's case it is book a room
 - A good rule of thumb is one critical event per product offering
@@ -207,8 +207,8 @@ the majority of users don't take advantage of.
 	+ Use behavioral cohort analysis to measure the impact of different user actions
 		* Based on the actions of your users, study their retention and see which groups of users do what
 		* Famous example from Facebook: Users who added at least 7 friends within their first 10 days were more likely to be retained long term. **That is a behavioral cohort: there's a behavior (adding at least 7 friends) and a time period (within 10 days of signing up).**
-	+ Conversion rate through your critical path funnel
-		* A critical path funnel is the series of actions you anticipate users taking in order to complete your critical event
+	+ Conversion rate through your critical path funnel<a name="critical-path-funnel"></a>
+		* A critical path funnel is the series of actions you anticipate users taking in order to complete your critical event 
 	+ Find your most common user flows
 	+ Measure stickiness
 		* **stickiness** refers to the frequency at which people are using your product. Specifically, stickiness measures the number of days out of a given time period that a user was active, or did a specific event (like your critical event).
@@ -351,9 +351,9 @@ the majority of users don't take advantage of.
 
 ## CM Guide to Getting Started
 
-- Identify your [critical event](#critical-event)
+- Identify your [critical event](#critical-event) or events
 - Determine your product's [usage interval](#usage-interval)
-- 
+- Determine the [critical path funnel](#critical-path-funnel) to your critical events
 
 
 
