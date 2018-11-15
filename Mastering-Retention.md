@@ -234,7 +234,7 @@ the majority of users don't take advantage of.
 - Improving your current user retention is critical to sustaining a business. If your retention curve doesn't flatten out at some point, it will become impossible to sustain true growth.
 - Nir Eyal's 5% Rule and Habit Testing
 - These are the steps to Habit Testing:
-	+ Identify - find habitual usesr
+	+ Identify - find habitual users
 	+ Codify - understand what these users have in common
 	+ Modify - adapt user flow based on these learnings
 - The 5% Rule means that if at least 5% of your users aren't coming back to your site, or it isn't habitual, you need to rethink your value proposition
@@ -362,13 +362,25 @@ the majority of users don't take advantage of.
 
 ## Questions and Answers
 
-**
+**What is user retention? Why is it important?**
+
+**What is a critical event?**
+
+**How do you identify your critical event?**
+
+**What is a product's usage interval? Why is it important to know?**
 
 
 
 
+**What is a critical path funnel? How you determine your product's critical path funnel?**
+
+**What are the three phases before becoming a current user?**
 
 
+**What is Onboarding? How do you examine Onboarding? How do you optimize Onboarding?**
+
+**What is the Habit Formation phase? How do you drive habit formation?**
 
 
 
