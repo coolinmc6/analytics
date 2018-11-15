@@ -27,6 +27,7 @@
 
 ## Table of Contents
 
+- [Summary](#summary)
 - [Chapter 01: Why You Need to Care About User Retention](#chapter-01-why-you-need-to-care-about-user-retention)
 - [Chapter 02: Your Critical Event & Product Usage Interval](https://github.com/coolinmc6/analytics/blob/master/Mastering-Retention.md#chapter-02-your-critical-event--product-usage-interval)
 - [Chapter 03: The Retention Lifecycle Framework](https://github.com/coolinmc6/analytics/blob/master/Mastering-Retention.md#chapter-03-the-retention-lifecycle-framework)
@@ -39,13 +40,17 @@
 
 [back to top](#top)
 
-## CM Notes
+## Summary
 
 - Chapter 1 explains user retention is so important. Without a user retention curve that eventually flattens out, you don't have product-market fit. Without product-market fit, you don't really have a business. Without product-market fit, new users won't really help you because you can't retain them.
 - Chapter 2 explains what a critical event is and why you need to identify it. It also explains what the product usage interval is. These two figures help identify the appropriate time frame by which you can measure retention.
 - Chapter 3 explains the User Retention Framework and how you can think about users. There are generally four types of users: new users, current users, dormant users, and resurrected users (these are the lifecycle cohorts). This chapter also explains the three main user retention metrics (Nth-Day Retention, Unbounded Retention, and Bracket Retention).
 - Chapter 4 explains what behavioral personas are and how you can use them to understand your users. Diving into the lifecycle information of your behavioral personas can be done in a number of ways and they list a number of analyses you should perform to understand your users better.
+- Chapters 5, 6, and 7 each examine a different user type (current, new, and resurrected, respectively). There is good information in each chapter for each type of user.
 - Chapter 5 stresses the importance of keeping current users and making your product habit-forming.
+- Chapter 6 focuses on new users with a focus on understanding the onboarding funnel and a description of the phases of a new user (onboarding, value discovery) and how they transition to a current user (habit formation to "current user" status).
+- Chapter 7 looks at resurrected users in a similar pattern as the other two chapters. The important part about bringing back resurrected users is understanding the trigger that brings them back; both external and internal triggers.
+- Chapter 8 is a good summary of the book along with how to take next steps using OKRs to define your objectives followed by the key results that measure success
 
 [back to top](#top)
 
@@ -330,7 +335,7 @@ the majority of users don't take advantage of.
 - They recommend using OKRs - Objectives and Key Results. Interesting methodology around retention:
 	+ State your goals
 	+ Set a timeframe (30 to 90 days)
-	+ Assign three key resutls you want to achieve related to retention:
+	+ Assign three key results you want to achieve related to retention:
 		* #1 - 90% chance of success
 		* #2 - 50% chance of success
 		* #3 - 10% chance of success
@@ -355,7 +360,9 @@ the majority of users don't take advantage of.
 - Determine your product's [usage interval](#usage-interval)
 - Determine the [critical path funnel](#critical-path-funnel) to your critical events
 
+## Questions and Answers
 
+**
 
 
 
