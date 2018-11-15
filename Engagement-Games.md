@@ -14,7 +14,17 @@
 
 ## Chapter 1: The Three Games of Engagement
 
-
+- Source: [https://amplitude.com/user-engagement/three-games-of-engagement](https://amplitude.com/user-engagement/three-games-of-engagement)
+- **Onboarding:** A series of steps within your product designed to show new users how they can use the product to obtain value.
+- The Three Engagement Games
+	+ Attention Game - maximize attention spent in-product or on-site
+	+ Transaction Game - get customers to buy products
+	+ Productivity Game - allows businesses to complete a task or improve workflow for user; typically B2B
+	+ Amplitude has found that even if businesses say that they are in all three games, it's best to focus on one. Making a clear choice on which one to focus on is a big part of what strategy is.
+- Why it's important to define a north star
+- What is the customer value exchange for your game
+- What is the Engagement Loop
+- How do to measure engagement, depending on your "engagement game"
 
 
 
