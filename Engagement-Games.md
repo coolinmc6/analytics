@@ -22,6 +22,13 @@
 	+ Productivity Game - allows businesses to complete a task or improve workflow for user; typically B2B
 	+ Amplitude has found that even if businesses say that they are in all three games, it's best to focus on one. Making a clear choice on which one to focus on is a big part of what strategy is.
 - Why it's important to define a north star
+	+ It gives your organization clarity and alignment on what the product team is optimizing for **and what can be traded off**
+	+ Communicates the product organization's impact and progress to the rest of the company
+	+ Holds product teams accountable to an outcome
+	+ **KPI**: ‘Key Performance Indicator,’ a measurable value that demonstrates how well an organization is achieving its current objective.
+
+> A north star metric is the key measure of success for the product team in a company. It defines the relationship between the customer problems that the product team is trying to solve and the revenue that the business aims to generate by doing so.
+
 - What is the customer value exchange for your game
 - What is the Engagement Loop
 - How do to measure engagement, depending on your "engagement game"
