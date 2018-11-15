@@ -27,10 +27,17 @@
 	+ Holds product teams accountable to an outcome
 	+ **KPI**: ‘Key Performance Indicator,’ a measurable value that demonstrates how well an organization is achieving its current objective.
 
+![North Star Examples](https://github.com/coolinmc6/analytics/blob/master/assets/images/north-stars-wide.png)
+
 > A north star metric is the key measure of success for the product team in a company. It defines the relationship between the customer problems that the product team is trying to solve and the revenue that the business aims to generate by doing so.
 
 - What is the customer value exchange for your game
+	+ The *value exchange* between business and customer is as follows. A business makes a product that offers some value to customers - entertainment, efficiency, status, etc. - and the customer in return offers some form of compensation to the business.
+	+ To increase engagement, it is important that you understand the various actions within
 - What is the Engagement Loop
+
+![Engagement Loop](https://github.com/coolinmc6/analytics/blob/master/assets/images/engagement-loop-wide.png)
+
 - How do to measure engagement, depending on your "engagement game"
 
 
