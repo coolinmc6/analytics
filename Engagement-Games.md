@@ -138,7 +138,11 @@
 ![Value exchange examples](https://github.com/coolinmc6/analytics/blob/master/assets/images/value-exchange-examples.png)
 
 - the **Ladder of Engagement** is the “ongoing learning journey a new user embarks on to become an expert.”
-
+- Before your Ladder of Engagement, understand which "engagement game" you're playing. Start at the topmost rung (power users) and work down
+	+ What do you want your power users doing and why?
+	+ How should users arrive at this point?
+- Understanding what action(s) makes up the bottom rung of the engagement ladder is the most difficult as it is what gets users to that "activation" point; the first value exchange
+- 
 
 [back to top](#top)
 
