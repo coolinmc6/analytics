@@ -87,9 +87,35 @@
 ## Chapter 2: Activating New Users
 
 - Source: [https://amplitude.com/user-engagement/engaging-new-users](https://amplitude.com/user-engagement/engaging-new-users)
+- It's important, when measuring the growth of new users, to understand what a "new user" is. Amplitude recommends not measuring vanity metrics like sign-ups or app downloads but rather "activations".
+- **Activation:** The point at which a user finds value in the product and also provides value back to the business. See the image below (hint: it's not just clicking the 'activate account' link in their email)
 
+![Activation](https://github.com/coolinmc6/analytics/blob/master/assets/images/activation.png)
 
+- This is where activation is in the entire growth funnel:
 
+![New user funnel](https://github.com/coolinmc6/analytics/blob/master/assets/images/new-user-funnel.png)
+
+- This chapter is about the stages of activation: Onboarding, Aha Moment, First Value Exchange
+- Onboarding, the first phase of new user activation, is a the process by which new users get acquainted with your product and first discover value.
+- Amplitude recommends looking at your sign-up page and the first steps afterward: 
+	- how many steps must the user take to see real value? 
+	- How can you make those steps easier / faster / more enjoyable?
+- There are three main onboarding categories:
+	+ doing-focused: the user actually **does** meaningful actions within the product to see value
+	+ benefit-focused: the user is **walked through** a specific product function that would be beneficial to the user
+	+ account-focused: the user **sets up their profile** in a guided process (i.e. Twitter, LinkedIn)
+- Doing Focused:
+
+![Tumblr onboarding](https://github.com/coolinmc6/analytics/blob/master/assets/images/tumblr_onboarding.png)
+
+- Benefit Focused
+
+![Evernote onboarding](https://github.com/coolinmc6/analytics/blob/master/assets/images/evernote-onboarding.png)
+
+- Onboarding Best Practices
+
+![Onboarding](https://github.com/coolinmc6/analytics/blob/master/assets/images/onboarding-best-practices.png)
 
 [back to top](#top)
 
