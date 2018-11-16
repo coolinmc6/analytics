@@ -6,6 +6,7 @@
 
 ## Resources Cited
 
+- [Building your growth model and Ladder of Engagement](https://medium.com/@joshelman/building-your-growth-model-and-ladder-of-engagement-3b3a18f2d1a8)
 
 ## Table of Contents
 
@@ -106,16 +107,38 @@
 	+ benefit-focused: the user is **walked through** a specific product function that would be beneficial to the user
 	+ account-focused: the user **sets up their profile** in a guided process (i.e. Twitter, LinkedIn)
 - Doing Focused:
+	+ the example below is Tumblr's onboarding process.
+	+ It is designed to quickly instruct new users on how to create a new post
+	+ Doing-focused onboarding should be simple and be the smallest amount of action to convey value and have them do something meaningful in your product
 
 ![Tumblr onboarding](https://github.com/coolinmc6/analytics/blob/master/assets/images/tumblr_onboarding.png)
 
 - Benefit Focused
+	+ Benefit-focused is less about having the user **do something** but more about showing them your product's core value
+	+ I could see this being the case for more complicated or involved products where a quick, 1-minute or less action may not be valuable enough to show value.
+	+ Evernote's onboarding example below shows how Evernote explains its core value prop to users
+	+ For more compicated B2B products, i.e. Typeform, new users are walked through creating their first new form
 
 ![Evernote onboarding](https://github.com/coolinmc6/analytics/blob/master/assets/images/evernote-onboarding.png)
+
+- Account Focused
+	+ Account-focused onboarding is more popular in social media applications
+
+![Twitter onboarding](https://github.com/coolinmc6/analytics/blob/master/assets/images/twitter-onboarding.png)
+
+> Activation is about building trust with your users. Onboarding is about logistics. A 10x improvement to your North Star metric doesn’t come from endless, minute optimizations of your onboarding flow or sending yet another email. It comes from providing a core value of your product early on in the new user experience.
 
 - Onboarding Best Practices
 
 ![Onboarding](https://github.com/coolinmc6/analytics/blob/master/assets/images/onboarding-best-practices.png)
+
+- The aha moment helps companies connect their higher-level goals to actions that users take within their products.
+
+
+![Value exchange examples](https://github.com/coolinmc6/analytics/blob/master/assets/images/value-exchange-examples.png)
+
+- the **Ladder of Engagement** is the “ongoing learning journey a new user embarks on to become an expert.”
+
 
 [back to top](#top)
 
