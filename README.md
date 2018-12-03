@@ -1,7 +1,7 @@
 <table>
 	<thead>
 		<tr>
-			<td colspan="3"><strong>Subjects</strong></td>
+			<td colspan="3" style="text-align: center;"><strong>Subjects</strong></td>
 		</tr>
 	</thead>
 	<tbody>
