@@ -1,3 +1,4 @@
+|||
 |:---:|:---:|
 |[Analytics](https://github.com/coolinmc6/analytics)|[Computer Science](https://github.com/coolinmc6/CS-concepts)|
 
