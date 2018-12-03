@@ -1,10 +1,4 @@
-<table>
-	<tr>
-		<td>[Analytics](https://github.com/coolinmc6/analytics)</td>
-		<td>[Computer Science](https://github.com/coolinmc6/CS-concepts)</td>	
-	</tr>
-</table>
-
+|[Analytics](https://github.com/coolinmc6/analytics)|[Computer Science](https://github.com/coolinmc6/CS-concepts)|
 
 # Analytics
 
