@@ -15,7 +15,6 @@
 			<td><a href="https://github.com/coolinmc6/design-ux-ui">UX / UI Design</a></td>
 		</tr>	
 	</tbody>
-	
 </table>
 
 <a name="top"></a>
