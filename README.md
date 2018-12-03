@@ -1,6 +1,9 @@
-|||
-|:---:|:---:|
-|[Analytics](https://github.com/coolinmc6/analytics)|[Computer Science](https://github.com/coolinmc6/CS-concepts)|
+<table>
+	<tr>
+		<td><a href="https://github.com/coolinmc6/analytics">Analytics</a></td>
+		<td><a href="https://github.com/coolinmc6/CS-concepts">Computer Science</a></td>
+	</tr>
+</table>
 
 # Analytics
 
