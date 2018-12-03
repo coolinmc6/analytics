@@ -1,4 +1,12 @@
-# README
+<table>
+	<tr>
+		<td>[Analytics](https://github.com/coolinmc6/analytics)</td>
+		<td>[Computer Science](https://github.com/coolinmc6/CS-concepts)</td>	
+	</tr>
+</table>
+
+
+# Analytics
 
 [UI and UI Design Notes](https://github.com/coolinmc6/design-ux-ui)
 
