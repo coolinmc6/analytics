@@ -1,7 +1,10 @@
 <table>
 	<thead>
 		<tr>
-			<th colspan="3" style="text-align: center;"><strong>Subjects of study</strong></th>
+			<th colspan="3" style="text-align: center;"><strong>Subjects of Study</strong></th>
+		</tr>
+		<tr>
+			<td colspan="3">These links are to other repos.</td>
 		</tr>
 	</thead>
 	<tbody>
