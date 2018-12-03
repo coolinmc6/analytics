@@ -6,7 +6,7 @@
 	</thead>
 	<tbody>
 		<tr>
-			<td><a href="https://github.com/coolinmc6/analytics">Analytics</a></td>
+			<td><strong><a href="https://github.com/coolinmc6/analytics">Analytics</a></strong></td>
 			<td><a href="https://github.com/coolinmc6/CS-concepts">Computer Science</a></td>
 			<td><a href="https://github.com/coolinmc6/design-ux-ui">Design and Product Development</a></td>
 		</tr>	
