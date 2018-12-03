@@ -1,7 +1,7 @@
 <table>
 	<thead>
 		<tr>
-			<td colspan="3" style="text-align: center;"><strong>Subjects</strong></td>
+			<th colspan="3" style="text-align: center;"><strong>Subjects of study</strong></th>
 		</tr>
 	</thead>
 	<tbody>
