@@ -65,6 +65,7 @@
 
 - helps you identify which metrics you should use for your product / service
 
+![Game Framework](https://github.com/coolinmc6/analytics/blob/master/assets/game-framework.png)
 
 [back to top](#top)
 
