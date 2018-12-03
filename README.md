@@ -1,28 +1,26 @@
 <table>
 	<thead>
 		<tr>
-			<th colspan="3" style="text-align: center;"><strong>Subjects of Study</strong></th>
+			<th colspan="4" style="text-align: center;"><strong>Subjects of Study</strong></th>
 		</tr>
 		<tr>
-			<td colspan="3">These links are to other repos.</td>
+			<td colspan="4">The links below are to the *parent* GitHub repos of resources, completed courses, my own notes, links to articles, etc. about the topics shown below. They are designed to be my "go-to" spot for the given subject.</td>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td><strong><em><a href="https://github.com/coolinmc6/analytics">Analytics</a></em></strong></td>
 			<td><a href="https://github.com/coolinmc6/CS-concepts">Computer Science</a></td>
-			<td><a href="https://github.com/coolinmc6/design-ux-ui">UX / UI Design</a></td>
 			<td><a href="https://github.com/coolinmc6/design-ux-ui#product-design--development">Product Development</a></td>
+			<td><a href="https://github.com/coolinmc6/design-ux-ui">UX / UI Design</a></td>
 		</tr>	
 	</tbody>
 	
 </table>
 
-# Analytics
-
-[UI and UI Design Notes](https://github.com/coolinmc6/design-ux-ui)
-
 <a name="top"></a>
+
+# Analytics
 
 ## Table of Contents
 
