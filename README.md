@@ -67,6 +67,18 @@
 
 ![Game Framework](https://github.com/coolinmc6/analytics/blob/master/assets/game-framework.png)
 
+- There are four steps to this framework:
+	+ Step 1: Articulate Your Goals
+	+ Step 2: List the Actions That Matter
+	+ Step 3: Define Your Metrics
+	+ Step 4: Evalute Your Metrics
+- The case for metrics BEFORE you start development:
+	- Metrics help you maintain focus
+	- Metrics set a common goal for team to rally around
+	- Metrics hold you (the PM) accountable to your users and business
+	- Metrics enable more objective decision-making during the critical launch period, including triage and prioritization
+* 
+
 [back to top](#top)
 
 ### Links
