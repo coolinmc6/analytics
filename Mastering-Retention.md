@@ -4,7 +4,7 @@
 
 # Mastering Retention
 
-- The source for these notes is [here](https://github.com/coolinmc6/analytics/blob/master/assets/Amplitude-Product-Analytics-Playbook-vol1.pdf)
+- The source for these notes is [here](https://github.com/coolinmc6/analytics/blob/master/assets/Amplitude/Amplitude-Product-Analytics-Playbook-vol1.pdf)
 
 ## Resources Cited 
 
@@ -66,12 +66,12 @@
 - your goal should be increase user retention is minimize churn
 - A key metric is **N-Day Retention** where Day 0 is the day they first use the product and then you see whether that user has returned on Day 1, Day 5, etc. It creates a retention curve as shown below:
 
-![Retention Curve](https://github.com/coolinmc6/analytics/blob/master/assets/retention-curve.png)
+![Retention Curve](https://github.com/coolinmc6/analytics/blob/master/assets/images/retention-curve.png)
 
 - If Day 7 is retention is 13%, it means that out of all the users who first used the product on Day 0, 13% came back and were active on Day 7
 - Retention matters **IMMEDIATELY**, not later once you're past a certain "growth" period...if you don't retain users, you don't have product-market fit. See below
 
-![Retention Curve Showing Product-Market Fit](https://github.com/coolinmc6/analytics/blob/master/assets/rc-product-market-fit.png)
+![Retention Curve Showing Product-Market Fit](https://github.com/coolinmc6/analytics/blob/master/assets/images/rc-product-market-fit.png)
 
 - You need to build a product that people will get hooked on; you need a *habit-forming* product
 - You need to understand what value your users get out of your product - figure out what your power users are doing a nudge your user base to behave more like them
@@ -144,7 +144,7 @@
 
 ### The Retention Lifecycle Framework 
 
-![User Retention Cycle](https://github.com/coolinmc6/analytics/blob/master/assets/user-retention-cycle.png)
+![User Retention Cycle](https://github.com/coolinmc6/analytics/blob/master/assets/images/user-retention-cycle.png)
 
 - New User Retention
 	+ your new user experience is your product's first impression
@@ -166,9 +166,9 @@
 - **CM:** This specific section is referenced several times in the following chapters, with each one dealing with a different type of user: Chapter 5 (Current Users), Chapter 6 (New Users), and Chapter 7 (Resurrected Users). Each of those chapters require this section of breaking your users down into these main four groups
 - The main crux behind lifecycle cohorts is that a growing "active" user base does not alone suggest that you're doing well. Look at these two graphs:
 
-![Active Users over 12 Weeks](https://github.com/coolinmc6/analytics/blob/master/assets/active-users-bar-chart.png)
+![Active Users over 12 Weeks](https://github.com/coolinmc6/analytics/blob/master/assets/images/active-users-bar-chart.png)
 
-![Active Users broken down by type](https://github.com/coolinmc6/analytics/blob/master/assets/active-users-breakdown.png)
+![Active Users broken down by type](https://github.com/coolinmc6/analytics/blob/master/assets/images/active-users-breakdown.png)
 
 - by breaking your users down into cohorts of new users, current users, resurrected users and dormant users, you can see what your "active user" count is really telling you.
 - the "Pulse" ratio is (# of new users + # of resurrected users) / (# of dormant users)
@@ -196,7 +196,7 @@ is important, but you can't convert everyone into a power user overnight. As you
 	+ 90% Consume
 - If you optimize only for your power users (in YouTube's case you might think it's the creators), you'd be neglecting the other 99% that largely watch those videos
 
-![1% Rule Illustrated](https://github.com/coolinmc6/analytics/blob/master/assets/1-percent-rule.png)
+![1% Rule Illustrated](https://github.com/coolinmc6/analytics/blob/master/assets/images/1-percent-rule.png)
 
 - You can break your users down into Power, Core and Passive users:
 	- **Power Users**: People who use your product with a very high frequency or use a “power” feature that
@@ -223,9 +223,9 @@ the majority of users don't take advantage of.
 		* the time spent isn't always a great metric - make sure it makes sense for your app / website
 - The reference below is great and I should return to it:
 
-![Product Analysis Toolkit - page 1](https://github.com/coolinmc6/analytics/blob/master/assets/product-analysis-toolkit-1.png)
+![Product Analysis Toolkit - page 1](https://github.com/coolinmc6/analytics/blob/master/assets/images/product-analysis-toolkit-1.png)
 
-![Product Analysis Toolkit - page 2](https://github.com/coolinmc6/analytics/blob/master/assets/product-analysis-toolkit-2.png)
+![Product Analysis Toolkit - page 2](https://github.com/coolinmc6/analytics/blob/master/assets/images/product-analysis-toolkit-2.png)
 
 [back to top](#top)
 
@@ -244,14 +244,14 @@ the majority of users don't take advantage of.
 	+ Get current users to become core users, and core users to become power users
 - Remember the User Cohort Diagram:
 
-![User Cohort Diagram](https://github.com/coolinmc6/analytics/blob/master/assets/user-retention-cycle.png)
+![User Cohort Diagram](https://github.com/coolinmc6/analytics/blob/master/assets/images/user-retention-cycle.png)
 
 - These are the phases before becoming a current user:
 	+ Onboarding
 	+ Value Discovery
 	+ Habit Formation
 
-![Phases of becoming a current user](https://github.com/coolinmc6/analytics/blob/master/assets/phases-current-user.png)
+![Phases of becoming a current user](https://github.com/coolinmc6/analytics/blob/master/assets/images/phases-current-user.png)
 
 - I. Current Users Diagnostic
 	+ look at baseline retention for the current user cohort
@@ -278,7 +278,7 @@ the majority of users don't take advantage of.
 - Understand your onboarding funnel
 - Looking at the paths of dropped off users
 
-![Habit Formation Timeframe](https://github.com/coolinmc6/analytics/blob/master/assets/habit-formation-time-frame.png)
+![Habit Formation Timeframe](https://github.com/coolinmc6/analytics/blob/master/assets/images/habit-formation-time-frame.png)
 
 - I. New users diagnostic
 	+ look at baseline retention for new users cohort
@@ -295,7 +295,7 @@ the majority of users don't take advantage of.
 - IV. The phases of new user retention: Onboarding and Value Discovery
 	+ these are the phases of a new user:
 	
-![Habit Formation Timeframe](https://github.com/coolinmc6/analytics/blob/master/assets/phases-new-user.png)
+![Habit Formation Timeframe](https://github.com/coolinmc6/analytics/blob/master/assets/images/phases-new-user.png)
 
 - V. Identify the drivers of successful onboarding
 - VI. Identify the drivers of successful value discovery
@@ -309,7 +309,7 @@ the majority of users don't take advantage of.
 - A **resurrected user** is someone who has returned to your product after being inactive, or dormant, for a period of time
 - Don't let users come back to a poor empty experience
 
-![Habit Formation Timeframe](https://github.com/coolinmc6/analytics/blob/master/assets/empty-state.png) 
+![Habit Formation Timeframe](https://github.com/coolinmc6/analytics/blob/master/assets/images/empty-state.png) 
 
 - I. Resurrected users diagnostic
 	+ compare resurrected users to other users (current and new)
