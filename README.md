@@ -13,6 +13,7 @@
 			<td><a href="https://github.com/coolinmc6/CS-concepts">Computer Science</a></td>
 			<td><a href="https://github.com/coolinmc6/design-ux-ui#product-design--development">Product Development</a></td>
 			<td><a href="https://github.com/coolinmc6/design-ux-ui">UX / UI Design</a></td>
+			<td><a href="https://github.com/coolinmc6/front-end-dev">Front End Development</a></td>
 		</tr>	
 	</tbody>
 </table>
@@ -65,7 +66,7 @@
 
 - helps you identify which metrics you should use for your product / service
 
-![Game Framework](https://github.com/coolinmc6/analytics/blob/master/assets/game-framework.png)
+![Game Framework](https://github.com/coolinmc6/analytics/blob/master/assets/images/game-framework.png)
 
 - There are four steps to this framework:
 	+ Step 1: Articulate Your Goals
